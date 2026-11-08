@@ -216,4 +216,4 @@ JoyToKey is available as a full free version, which means all features and updat
 Ready to elevate your gaming experience? **Download JoyToKey now and unleash the full potential of your gamepad!**
 
 ---
-**Last updated:** 2026-11-07 22:36:47 UTC
+**Last updated:** 2026-11-08 02:12:22 UTC
